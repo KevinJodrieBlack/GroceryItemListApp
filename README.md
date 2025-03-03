@@ -7,3 +7,5 @@ In this project I kept to best practices in OOP by seperating the functionality 
 The searches are still currently case sensitive, which is something I would like to fix soon.
 
 Working on this project helped me practice my modular design, which is something I will continue to take into my future projects
+
+For more info, view the documentation in the project folder
